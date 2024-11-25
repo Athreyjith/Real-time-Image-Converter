@@ -3,4 +3,5 @@ and white, applies blur effects, creates sketch effects, and generates paint-lik
 
 --To run
 cd .. path
+
 python filename.py
